@@ -6,7 +6,7 @@
   "dependencies": {
     "bluebird": "^2.9.24",
     "body-parser": "^1.13.3",
-    "bull": "^1.0.0-rc1",
+    "bull": "^3.0.0-rc.3",
     "consolidate": "~0.10.0",
     "dustjs-linkedin": "~2.5.1",
     "express": "^4.13.4",
